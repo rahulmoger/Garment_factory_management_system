@@ -1,1 +1,1 @@
-# Garment_factory_management_system
+The Database Management is developed in favour of Garment Factory  Management committee which helps them to save the records of the Distributor,  Producer, Employee details and other information regarding the Factory and  store. It helps them to overcome the problems that arise while handling the  information and details manually. Here all the valuable data or information can be stored for a longer period, all the information can be accessed and updated by an individual department and can be retrieved when necessary.
